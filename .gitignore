@@ -1,4 +1,2 @@
-*.pptx
-*.pkl
-*.jpg
-*.png
+./python/Workshop_CV_for_Future.pptx
+./python/cv/model2.pkl
